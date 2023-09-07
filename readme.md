@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clock [Link](https://abhilashtengli.github.io/Digital_clock/)
 
 A simple digital clock web application that displays the current time in hours, minutes, seconds, and AM/PM format.
 
